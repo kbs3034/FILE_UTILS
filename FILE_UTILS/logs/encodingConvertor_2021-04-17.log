@@ -1,0 +1,19 @@
+02:10 INFO  utils.EncodingConverter - path : F:\test\FILE_UTIL\bin\logback.xml Result : Converting Success
+02:10 INFO  utils.EncodingConverter - path : F:\test\FILE_UTIL\src\logback.xml Result : Converting Success
+02:10 INFO  utils.EncodingConverter - path : F:\test\FILE_UTIL\src\utils\EncodingConverter.java Result : Converting Success
+02:10 INFO  utils.EncodingConverter - path : F:\test\FILE_UTIL\src\utils\FileExtensionCollector.java Result : Converting Success
+02:10 INFO  utils.EncodingConverter - path : F:\test\REDIS_LOGIN\.gradle\6.8.3\gc.properties Result : Converting Success
+02:10 INFO  utils.EncodingConverter - path : F:\test\REDIS_LOGIN\.gradle\buildOutputCleanup\cache.properties Result : Converting Success
+02:10 INFO  utils.EncodingConverter - path : F:\test\REDIS_LOGIN\.gradle\configuration-cache\gc.properties Result : Converting Success
+02:10 INFO  utils.EncodingConverter - path : F:\test\REDIS_LOGIN\.gradle\vcs-1\gc.properties Result : Converting Success
+02:10 INFO  utils.EncodingConverter - path : F:\test\REDIS_LOGIN\.settings\org.eclipse.wst.common.project.facet.core.xml Result : Converting Success
+02:10 INFO  utils.EncodingConverter - path : F:\test\REDIS_LOGIN\etc\redis_login 작업진행관련내용.txt Result : Converting Success
+02:10 INFO  utils.EncodingConverter - path : F:\test\REDIS_LOGIN\gradle\wrapper\gradle-wrapper.properties Result : Converting Success
+02:10 INFO  utils.EncodingConverter - path : F:\test\REDIS_LOGIN\src\main\java\com\bskim\sample\configuration\WebConfig.java Result : Converting Success
+02:10 INFO  utils.EncodingConverter - path : F:\test\REDIS_LOGIN\src\main\java\com\bskim\sample\controller\SampleController.java Result : Converting Success
+02:10 INFO  utils.EncodingConverter - path : F:\test\REDIS_LOGIN\src\main\java\com\bskim\sample\MsaLoginApplication.java Result : Converting Success
+02:10 INFO  utils.EncodingConverter - path : F:\test\REDIS_LOGIN\src\main\java\com\bskim\sample\session\SessionObject.java Result : Converting Success
+02:10 INFO  utils.EncodingConverter - path : F:\test\REDIS_LOGIN\src\main\java\com\bskim\sample\session\utils\SessionUtils.java Result : Converting Success
+02:10 INFO  utils.EncodingConverter - path : F:\test\REDIS_LOGIN\src\main\webapp\index.html Result : Converting Success
+02:10 INFO  utils.EncodingConverter - path : F:\test\REDIS_LOGIN\src\main\webapp\views\sessionCheckPage.html Result : Converting Success
+02:10 INFO  utils.EncodingConverter - path : F:\test\REDIS_LOGIN\src\test\java\com\bskim\sample\MsaLoginApplicationTests.java Result : Converting Success
